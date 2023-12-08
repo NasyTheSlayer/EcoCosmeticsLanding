@@ -156,6 +156,7 @@
   &__textarea {
     margin-top: 45px;
     resize: none;
+    overflow: hidden;
 
     @include onDesktop {
       margin-top: 60px;
