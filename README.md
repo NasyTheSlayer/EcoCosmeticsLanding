@@ -1,6 +1,6 @@
 # Eco cosmetics landing page
 
-- [DEMO LINK](https://nasytheslayer.github.io/Eco-cosmetics-landing/)
+- [DEMO LINK](https://nasytheslayer.github.io/EcoCosmeticsLanding/)
 
 - [Figma design](https://www.figma.com/file/Fz588JKGuPS2Bk21De4KE5/Brand-of-eco-cosmetics-_FE-students?node-id=21779%3A631&t=Gtk1Kj4TKq6BJit2-1)
 
@@ -22,12 +22,12 @@ $ nvm use 14
 
 2. Clone the repository to your local machine, open terminal (GitBash for Windows users) and clone repo with command bellow:
 ```
-$ git clone https://github.com/NasyTheSlayer/Eco-cosmetics-landing
+$ git clone https://github.com/NasyTheSlayer/EcoCosmeticsLanding
 ```
 
 3. Open project in terminal (or GitBash for Windows users):
 ```
-$ code PotrPots_landing
+$ code EcoCosmeticsLanding
 ```
 
 4. Set up project and install necessary packages in the code-editor you use:
